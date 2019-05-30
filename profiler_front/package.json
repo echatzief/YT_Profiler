@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
-    "react": "^16.5.0",
-    "react-dom": "^16.5.0",
-    "react-scripts": "1.1.5",
-    "react-youtube": "^7.6.0",
-    "react-youtube-playlist": "^2.2.8"
+    "axios": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-scripts": "*",
+    "react-youtube": "*",
+    "react-youtube-playlist": "*"
   },
   "scripts": {
     "start": "react-scripts start",
